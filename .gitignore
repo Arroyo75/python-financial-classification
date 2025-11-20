@@ -1,0 +1,66 @@
+archive/
+
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables & credentials
+.env
+kaggle.json
+*.env
+
+# Data files (za duże dla git)
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Output files
+output/
+results/
+models/
+*.png
+*.jpg
+*.pdf
+*.pkl
+*.joblib
+*.h5
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
