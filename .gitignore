@@ -7,6 +7,8 @@ venv/
 env/
 ENV/
 
+newfile.ipynb
+
 # Environment variables & credentials
 .env
 kaggle.json
