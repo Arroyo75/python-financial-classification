@@ -1,20 +1,18 @@
 Features used for ML:
 ==================================================
- 1. OPM last year
- 2. Profit after tax last year
- 3. Sales last year
- 4. positive_opm_last_year
- 5. profitable_last_year
- 6. material_cost_ratio
- 7. employee_cost_ratio
- 8. total_cost_ratio
- 9. depreciation_ratio
-10. sales_growth
-11. opm_change
-12. improving_opm
-13. log_sales
-14. log_market_cap
-15. Return on capital employed
-16. asset_turnover
-17. Interest
-18. Depreciation
+ 1. Profit after tax last year
+ 2. Sales last year
+ 3. positive_opm_last_year
+ 4. profitable_last_year
+ 5. material_cost_ratio
+ 6. employee_cost_ratio
+ 7. total_cost_ratio
+ 8. depreciation_ratio
+ 9. sales_growth
+10. opm_change
+11. log_sales
+12. log_market_cap
+13. Return on capital employed
+14. asset_turnover
+15. Interest
+16. Depreciation
