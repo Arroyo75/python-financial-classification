@@ -21,6 +21,8 @@ data/
 *.xls
 *.parquet
 
+data_ml
+
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
