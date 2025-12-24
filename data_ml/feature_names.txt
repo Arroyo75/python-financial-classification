@@ -8,11 +8,6 @@ Features used for ML:
  6. employee_cost_ratio
  7. total_cost_ratio
  8. depreciation_ratio
- 9. sales_growth
-10. opm_change
-11. log_sales
-12. log_market_cap
-13. Return on capital employed
-14. asset_turnover
-15. Interest
-16. Depreciation
+ 9. log_sales
+10. log_market_cap
+11. asset_turnover
